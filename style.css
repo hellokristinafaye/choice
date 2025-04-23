@@ -56,3 +56,11 @@ main {
         font-family: "PT Sans Narrow", sans-serif;
         font-weight: 80;
 }
+aside {
+    background:rgb(237, 74, 101);
+    margin: 15px 0 15px 0;
+    flex-basis: 24%;
+}
+aside h3 {
+    text-align: center;
+}
