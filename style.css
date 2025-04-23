@@ -2,7 +2,7 @@ body {
     background: rgb(160, 159, 159);
 }
 .container {
-    width: 90%;
+    width: 80%;
     margin: auto;
 }
 header {
@@ -28,4 +28,11 @@ nav {
     padding: 10px 95px 10px 5px;
     font-family: "PT Sans Narrow", sans-serif;
     font-weight: 80;
+}
+.search-btn {
+    background: rgb(37, 37, 37);
+    color: white;
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 80;
+    padding: 10px 40px;
 }
