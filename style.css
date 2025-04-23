@@ -70,3 +70,10 @@ aside ul li {
     font-family: "PT Sans Narrow", sans-serif;
     font-weight: 80;
 }
+
+footer {
+    background: white;
+    padding: 15px 10px;
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 80;
+}
