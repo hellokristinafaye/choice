@@ -25,5 +25,7 @@ nav {
     cursor: pointer;
 }
 .search input {
-    padding: 10px 55px 10px 2px;
+    padding: 10px 95px 10px 5px;
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 80;
 }
