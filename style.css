@@ -43,4 +43,16 @@ main {
     background: white;
     padding: 10px;
     flex-basis: 74%;
+    margin: 15px 15px 15px 0;
+}
+.article h2 {
+    text-align: center;
+}
+.article h2, h3 {
+    font-family: Fascinate, serif;
+    font-style: italic;
+}
+.article p {
+        font-family: "PT Sans Narrow", sans-serif;
+        font-weight: 80;
 }
