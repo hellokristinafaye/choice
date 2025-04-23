@@ -8,4 +8,7 @@ body {
 header {
     display: flex;
     justify-content: center;
+    color: white;
+    font-family: Fascinate, serif;
+    font-style: italic;
 }
