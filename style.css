@@ -12,3 +12,10 @@ header {
     font-family: Fascinate, serif;
     font-style: italic;
 }
+
+nav {
+    background: rgb(237, 74, 101);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
