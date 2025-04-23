@@ -61,8 +61,10 @@ aside {
     margin: 15px 0 15px 0;
     flex-basis: 24%;
 }
-aside h3 {
+aside h2 {
     text-align: center;
+    font-family: Fascinate, serif;
+    font-style: italic;
 }
 aside ul li {
     font-family: "PT Sans Narrow", sans-serif;
